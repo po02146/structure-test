@@ -1,6 +1,6 @@
 Test for sharing states through context in single page.
 
-### Problem
+## Problem
 When there's complex components in page, it's hard to predict where state or logics are.
 
 Basically this comes from the React's state system. Since props can goes down but not up, single responsibility is hard to keep.
